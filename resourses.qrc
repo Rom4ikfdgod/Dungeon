@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>images_and_text/BrickWall.jpg</file>
+        <file>images_and_text/Room.txt</file>
+        <file>images_and_text/boss1.png</file>
+        <file>images_and_text/player.png</file>
+        <file>images_and_text/grass.jpg</file>
+        <file>images_and_text/flour.png</file>
+        <file>images_and_text/wall.png</file>
+        <file>images_and_text/fight_bg.png</file>
+        <file>images_and_text/door.png</file>
+        <file>images_and_text/box.png</file>
+    </qresource>
+</RCC>
